@@ -33,7 +33,8 @@ package.json 에서 start 로 명령어 추가
   "scripts": {
     "start": "nodemon app.js"
   },
-
+```
+```
 PS D:\VanillaJS\chat>npm start
 ```
 * * *
